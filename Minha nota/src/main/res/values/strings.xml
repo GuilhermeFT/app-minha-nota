@@ -1,0 +1,40 @@
+<resources>
+    <string name="Main_Screen">Minha Nota</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="Infor_Screen">Sobre</string>
+    <string name="Calc_Screen">Calcular nota</string>
+    <string name="List_Screen">Lista de Matérias</string>
+    <string name="Title_app">Minha nota</string>
+    <string name="mensagem">Aperte em + para adicionar uma matéria</string>
+
+    <string name="sobre">\t\t\t Esse aplicativo foi desenvolvido em 2018 pelo Guilherme Ferreira do 3º Informática (turma de 2018)
+    com o objetivo de ajudar os alunos e gerenciar suas notas bimestrais, finais de ano e a prova final.
+    Basicamente o aplicativo efetua os simples calculos usados para chegar as suas notas durante o ano letivo,
+    e pode tomar proporções maiores para contribuir ainda mais para o aluno.
+    \n O aplicativo contém Ads (Propagandas) em algumas de suas seções, para que através do seu acesso o aplicativo
+    renda uma breve quantia de dinheiro para obter uma renda em compensação com o tempo gasto no desenvolvimento.
+    A ideia é que os Ads não atrapalhem a experiência do usuário com o app, e por isso, caso haja alguma intervenção do app em sua
+    experiência, informe o desenvolvedor para otimizar o aplicativo.
+    \n\n O app pode ser usado por várias gerações do de turmas no Instituto, e sua divulgação ajuda a manter o aplicativo.
+    Tenha um bom uso, e caso haja alguma sujestão, comunique também o desenvolvedor.
+    \n</string>
+    <string name="novidades">
+        • Editar calculos salvos no histórico;\n• Gerenciar disciplinas e seus dias na semana;\n• Calcular notas bimestrais de cada disciplina;\n• Otimização de design e transição de tela.</string>
+    <string name="nav_header_title">Minha nota</string>
+    <string name="nav_header_subtitle">Calcule sua nota quando quiser!</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Sobre</string>
+    <string name="title_activity_main__botton">Main_ActivityBotton</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="adsCode">ca-app-pub-2865932856120238/5462242417</string>
+    <string name="adsCodeIntersticial">ca-app-pub-2865932856120238/6771468277</string>
+    <!--ORIGINAL INTER ca-app-pub-2865932856120238/6771468277-->
+    <!--ca-app-pub-3940256099942544/1033173712-->
+
+    <!-- ca-app-pub-3940256099942544/6300978111-->
+    <!--ORINGINAL ca-app-pub-2865932856120238/5462242417 -->
+</resources>

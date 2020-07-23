@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "859974091915",
+    "firebase_url": "https://meu-app-f5c22.firebaseio.com",
+    "project_id": "meu-app-f5c22",
+    "storage_bucket": "meu-app-f5c22.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:859974091915:android:bc74514d957a03d2",
+        "android_client_info": {
+          "package_name": "com.guiftapps.calculadora"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "859974091915-gj6kgfkql683j8obc3vong4q5d95fj6j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.guiftapps.calculadora",
+            "certificate_hash": "23eecd080c26e2b7ef49133ca8f25348b90b0ae3"
+          }
+        },
+        {
+          "client_id": "859974091915-jsv3132spgfbu19bk7lnj8vlggh623t4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPU45CpppmyU_tGBsQaI3-wm8jLfQcIO8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "859974091915-jsv3132spgfbu19bk7lnj8vlggh623t4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

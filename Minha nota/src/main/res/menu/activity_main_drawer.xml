@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_disciplinas"
+            android:icon="@drawable/ic_collections_bookmark_black_24dp"
+            android:title="Minhas disciplinas" />
+        <item
+            android:id="@+id/nav_bimestrais"
+            android:icon="@drawable/ic_school_black_24dp"
+            android:title="Notas bimestrais" />
+        <item
+            android:id="@+id/Null"
+            android:title="Item"
+            android:visible="false" />
+    </group>
+    <item android:title="Utilidades">
+        <menu>
+            <item
+                android:id="@+id/nav_Nfinal"
+                android:icon="@drawable/ic_filter_4_black_24dp"
+                android:title="Nota Final (4º Bimestre)" />
+            <item
+                android:id="@+id/nav_lista"
+                android:icon="@drawable/ic_list_black_24dp"
+                android:title="Histórico de notas" />
+            <item
+                android:id="@+id/nav_pf"
+                android:icon="@drawable/ic_sentiment_dissatisfied_black_24dp"
+                android:title="Prova Final (PF)" />
+        </menu>
+    </item>
+    <item android:title="Sobre o aplicativo">
+        <menu>
+            <item
+                android:id="@+id/nav_qac"
+                android:icon="@drawable/ic_web_black_24dp"
+                android:title="Q-Acadêmico (Web)" />
+            <item
+                android:id="@+id/nav_pdp"
+                android:icon="@drawable/ic_web_black_24dp"
+                android:title="Políticas de Privacidade" />
+            <item
+                android:id="@+id/nav_sobre"
+                android:icon="@android:drawable/ic_dialog_info"
+                android:title="Sobre" />
+        </menu>
+    </item>
+
+</menu>
