@@ -10,6 +10,7 @@ Além desses recursos, foi adicionado:
 ### Outras informações
 Também temos o site semelhante a este aplicativo. Segue abaixo:
 
+
 Código fonte: https://github.com/GuilhermeFT/MinhaNota
 
 Link do site: https://guilhermeft.github.io/MinhaNota/
