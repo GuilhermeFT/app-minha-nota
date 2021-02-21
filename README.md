@@ -6,11 +6,3 @@ Este aplicativo consiste em entregar ao usuário um ambiente de gerenciamento de
 
 Além desses recursos, foi adicionado:
 * _Sistema de notificação caso tenha matérias cadastrados juntamente com o seu calendário semanal, notificando às 18:00 horas o usuários sobre qual matéria ele irá ter aula no dia seguinte._
-
-### Outras informações
-Também temos o site semelhante a este aplicativo. Segue abaixo:
-
-
-Código fonte: https://github.com/GuilhermeFT/MinhaNota
-
-Link do site: https://guilhermeft.github.io/MinhaNota/
