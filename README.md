@@ -1,30 +1,26 @@
 <h1 align="center">app-minha-nota</h1>
 
 ## 🔎 Sobre o projeto
-Este projeto foi desenvolvido em 2018 para aplicar conceitos de programação aprendidos em sala de aula no curso Técnico em Informática integrado ao Ensino Médio do IFMT Campus Barra do Garças. Originalmente criado em Java, foi convertido para Kotlin, que é a linguagem padrão do Android Studio. O aplicativo oferece um ambiente de gerenciamento de disciplinas com ferramentas que permitem calcular notas bimestrais baseado no sistema de avaliação do IFMT, além de fornecer calculos de provas finais, notas anuais e cadastros de matérias e dos dias de aula.
-
-Os principais recursos incluem:
-* Sistema de notificação que, ao ter matérias cadastradas e acompanhando o calendário semanal, avisa os usuários às 18:00 horas sobre qual matéria terão aula no dia seguinte.
+Este projeto foi desenvolvido em 2018 para aplicar conceitos de programação aprendidos em sala de aula no curso Técnico em Informática integrado ao Ensino Médio do IFMT Campus Barra do Garças. Originalmente criado em Java, foi convertido para Kotlin, que é a linguagem padrão do Android Studio. O aplicativo oferece um ambiente de gerenciamento de disciplinas com ferramentas que permitem calcular notas bimestrais com base no sistema de avaliação do IFMT, além de fornecer cálculos de provas finais, notas anuais e cadastros de matérias e dos dias de aula.
 
 ## 🧪 Tecnologias
 - Kotlin
+- Gradle
 
 ## 🚀 Como executar
-Para clonar e executar o projeto localmente, utilize os seguintes comandos:
+Para clonar e rodar o projeto localmente, siga as instruções abaixo:
 
 1. Clone o repositório:
-   ```bash
    git clone https://github.com/GuilhermeFT/app-minha-nota.git
-   ```
 
 2. Navegue até o diretório do projeto:
-   ```bash
    cd app-minha-nota
-   ```
 
-3. Abra o projeto no Android Studio e aguarde a sincronização das dependências.
+3. Abra o projeto no Android Studio.
 
-4. Execute o aplicativo em um dispositivo Android ou em um emulador.
+4. Sincronize o Gradle se necessário.
+
+5. Execute o aplicativo em um dispositivo ou emulador Android.
 
 ## Contribuindo 🤝
 Contribuições para este projeto são bem-vindas! Por favor, siga os passos abaixo:
