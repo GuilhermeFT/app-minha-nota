@@ -1,21 +1,25 @@
 <h1 align="center">app-minha-nota</h1>
 
 ## 🔎 Sobre o projeto
-Este repositório é uma aplicação desenvolvida em Kotlin chamada app-minha-nota. A descrição fornecida ainda não fornece mais informações sobre o propósito da aplicação, mas parece ser uma calculadora simples.
+
+O projeto "app-minha-nota" é um desenvolvimento com o objetivo de ..., conforme descrito pelo usuário GuilhermeFT como "teste". A falta de detalhes sobre as características e recursos do projeto impede a criação de uma descrição mais precisa.
 
 ## 🧪 Tecnologias
-As tecnologias mais relevantes utilizadas nesse projeto são:
 
-* Linguagem de programação Kotlin
-* Gradle para gerenciamento de dependências
-* Android Studio para desenvolvimento e depuração
-* JSoup para manipulação de conteúdo HTML
-* Firebase para in-app messaging e advertising
-* AndroidX para componentes e bibliotecas
-* Material Design para design de interface
+* Kotlin
 
-## 🚀 Execução local
-Para executar o projeto localmente, clique no botão "Clone or download" e faça download do repositório. Em seguida, abra o arquivo `build.gradle` e verifique se a versão do Kotlin é igual à especificada no arquivo `build.gradle`. Em seguida, execute o comando `gradle assembleRelease` para construir a aplicação e `gradle installRelease` para instalar a aplicação em um dispositivo Android.
+As tecnologias listadas acima são as mais relevantes para o projeto, de acordo com o conteúdo do arquivo de build mais importante.
+
+## 🚀 Executando o projeto localmente
+
+Para executar o projeto localmente, siga os passos abaixo:
+
+1. Clone o repositório em sua máquina local usando o comando `git clone <repositório-url>`;
+2. Abra o diretório do projeto no ambiente de desenvolvimento preferido;
+3. Execute o comando `./gradlew build` para compilar o projeto;
+4. Em seguida, execute o comando `./gradlew run` para executar o projeto.
+
+Lembre-se de substituir `<repositório-url>` pelo link do repositório do GitHub.
 
 ## Contribuindo 🤝
 Contribuições para este projeto são bem-vindas! Por favor, siga os passos abaixo:
@@ -25,4 +29,4 @@ Contribuições para este projeto são bem-vindas! Por favor, siga os passos aba
 4. Envie para a branch (`git push origin feature/branch`);
 5. Abra um Pull Request.
 
-Este projeto está licenciado sob a licença [MIT](LICENSE.md). Ver o arquivo LICENSE para detalhes.
+Este projeto está licenciado sob a licença [GNU GPLv3](LICENSE.md). Ver o arquivo LICENSE para detalhes.
