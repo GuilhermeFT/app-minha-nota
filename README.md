@@ -1,37 +1,39 @@
 <h1 align="center">app-minha-nota</h1>
 
-Here's a professional and detailed README.md file for the app-minha-nota repository:
+## 🔎 Sobre o projeto
+Este repositório, denominado `app-minha-nota`, é uma aplicação desenvolvida em Kotlin pela GuilhermeFT. A aplicação é destinada a calculadora e utiliza diversas dependências para implementar suas funcionalidades.
 
-## 🔎 About the project
-The app-minha-nota is a convenient tool for students to manage and track their notes, allowing for quick calculations of averages and monitoring of academic performance.
+## 🧪 Tecnologias
+As principais tecnologias utilizadas nesse projeto incluem:
 
-## 🧪 Technologies
-The project utilizes Kotlin as its primary programming language.
+* Kotlin
+* Gradle
+* Android
+* Jsoup
+* Firebase Ads
+* Firebase In-app Messaging
+* Material Design
+* Recyclerview
+* Cardview
+* Firebase Core
 
-## 🚀 How to execute
-To clone and run the project locally, follow these steps:
+## 🚀 Como executar
+Para executar o projeto localmente, você precisará clonar o repositório e configurar o ambiente de desenvolvimento. Para isso, siga os passos abaixo:
 
- Clone the repository to a local directory using Git:
-```
-git clone https://github.com/GuilhermeFT/app-minha-nota.git
-```
-Navigate to the project directory and open the Gradle project file:
-```
-cd app-minha-nota
-```
-Build and run the project using the Gradle wrapper:
-```
-./gradlew build && ./gradlew run
-```
-The project will be executed and can be interacted with locally.
+1. Clonar o repositório usando o comando `git clone https://github.com/GuilhermeFT/app-minha-nota.git`.
+2. Instalar as dependências necessárias usando o comando `gradle build`.
+3. Compilar e executar a aplicação usando o comando `gradle assembleRelease`.
+4. Instalar a aplicação no emulador ou dispositivo Android.
+5. Executar a aplicação e utilize suas funcionalidades.
 
-Please note that additional instructions may be necessary for a comprehensive testing and deployment workflow, and these steps may be subject to change as the project evolves.
+Note que é necessário ter o Android Studio instalado e configurado corretamente para compilar e executar a aplicação. Além disso, é recomendável verificar se o ambiente de desenvolvimento está atualizado com as versiones mais recentes do Gradle e do Android SDK.
 
-## Contributing 🤝
-Contributions to this project are welcome! Please follow these steps:
-1. Clone the repository (`git clone https://github.com/GuilhermeFT/app-minha-nota`);
-2. Create a new branch (`git checkout -b feature/branch`);
-3. Make your changes and commit them (`git commit -m 'feat: add new feature'`);
-4. Push to the branch (`git push origin feature/branch`);
-5. Open a Pull Request.
+## Contribuindo 🤝
+Contribuições para este projeto são bem-vindas! Por favor, siga os passos abaixo:
+1. Clone o repositório (`git clone https://github.com/GuilhermeFT/app-minha-nota`);
+2. Crie uma nova branch (`git checkout -b feature/branch`);
+3. Faça suas alterações e as commit (`git commit -m 'feat: add new feature'`);
+4. Envie para a branch (`git push origin feature/branch`);
+5. Abra um Pull Request.
 
+Este projeto está licenciado sob a licença [MIT](LICENSE.md). Ver o arquivo LICENSE para detalhes.
