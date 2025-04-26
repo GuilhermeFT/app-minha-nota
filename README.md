@@ -1,32 +1,22 @@
 <h1 align="center">app-minha-nota</h1>
 
 ## 🔎 Sobre o projeto
-Este repositório, denominado `app-minha-nota`, é uma aplicação desenvolvida em Kotlin pela GuilhermeFT. A aplicação é destinada a calculadora e utiliza diversas dependências para implementar suas funcionalidades.
+O repositório "app-minha-nota" é um aplicativo desenvolvido em Kotlin que utiliza tecnologias como o Gradle e dependências como Jsoup, AndroidX e Firebase. O projeto tem como objetivo criar uma aplicação para cálculo de notas.
 
 ## 🧪 Tecnologias
-As principais tecnologias utilizadas nesse projeto incluem:
-
+O projeto utiliza as seguintes tecnologias:
 * Kotlin
 * Gradle
-* Android
 * Jsoup
-* Firebase Ads
-* Firebase In-app Messaging
-* Material Design
-* Recyclerview
-* Cardview
-* Firebase Core
+* AndroidX
+* Firebase
+* Android Studio
 
-## 🚀 Como executar
-Para executar o projeto localmente, você precisará clonar o repositório e configurar o ambiente de desenvolvimento. Para isso, siga os passos abaixo:
+## 🚀 Como executar o projeto
+Para executar o projeto localmente, siga os passos abaixo:
+Clona o repositório "app-minha-nota" em seu ambiente de desenvolvimento, após clonar, abra o arquivo build.gradle e execute o comando "gradle build" para construir o projeto. Em seguida, execute o comando "gradle assembleRelease" para gerar a build de produção. Por fim, execute o comando "gradle run" para executar o projeto.
 
-1. Clonar o repositório usando o comando `git clone https://github.com/GuilhermeFT/app-minha-nota.git`.
-2. Instalar as dependências necessárias usando o comando `gradle build`.
-3. Compilar e executar a aplicação usando o comando `gradle assembleRelease`.
-4. Instalar a aplicação no emulador ou dispositivo Android.
-5. Executar a aplicação e utilize suas funcionalidades.
-
-Note que é necessário ter o Android Studio instalado e configurado corretamente para compilar e executar a aplicação. Além disso, é recomendável verificar se o ambiente de desenvolvimento está atualizado com as versiones mais recentes do Gradle e do Android SDK.
+Lembre-se de que é necessário ter o Android Studio instalado em seu computador e configurado corretamente para que o projeto possa ser executado corretamente.
 
 ## Contribuindo 🤝
 Contribuições para este projeto são bem-vindas! Por favor, siga os passos abaixo:
@@ -36,4 +26,3 @@ Contribuições para este projeto são bem-vindas! Por favor, siga os passos aba
 4. Envie para a branch (`git push origin feature/branch`);
 5. Abra um Pull Request.
 
-Este projeto está licenciado sob a licença [MIT](LICENSE.md). Ver o arquivo LICENSE para detalhes.
