@@ -1,38 +1,37 @@
 <h1 align="center">app-minha-nota</h1>
 
-## 🔎 Sobre o projeto
-Criei um aplicativo na época do IF para ajudar nos cálculos de notas bimestrais seguindo o sistema de notas do IFMT. O aplicativo visa facilitar o gerenciamento das notas dos alunos, permitindo calcular rapidamente as médias e acompanhar o desempenho acadêmico.
+Here's a professional and detailed README.md file for the app-minha-nota repository:
 
-## 🧪 Tecnologias
-- Kotlin: Linguagem de programação utilizada para o desenvolvimento do aplicativo.
-- Gradle: Sistema de automação de construção utilizado para gerenciamento de dependências e construção do projeto.
+## 🔎 About the project
+The app-minha-nota is a convenient tool for students to manage and track their notes, allowing for quick calculations of averages and monitoring of academic performance.
 
-## 🚀 Como executar
-Para clonar e rodar o projeto localmente, siga as instruções abaixo:
+## 🧪 Technologies
+The project utilizes Kotlin as its primary programming language.
 
-1. Clone o repositório:
-   ```
-   git clone https://github.com/GuilhermeFT/app-minha-nota.git
-   ```
+## 🚀 How to execute
+To clone and run the project locally, follow these steps:
 
-2. Navegue até o diretório do projeto:
-   ```
-   cd app-minha-nota
-   ```
+ Clone the repository to a local directory using Git:
+```
+git clone https://github.com/GuilhermeFT/app-minha-nota.git
+```
+Navigate to the project directory and open the Gradle project file:
+```
+cd app-minha-nota
+```
+Build and run the project using the Gradle wrapper:
+```
+./gradlew build && ./gradlew run
+```
+The project will be executed and can be interacted with locally.
 
-3. Abra o projeto no Android Studio.
+Please note that additional instructions may be necessary for a comprehensive testing and deployment workflow, and these steps may be subject to change as the project evolves.
 
-4. Aguarde o Gradle sincronizar e baixar as dependências necessárias.
+## Contributing 🤝
+Contributions to this project are welcome! Please follow these steps:
+1. Clone the repository (`git clone https://github.com/GuilhermeFT/app-minha-nota`);
+2. Create a new branch (`git checkout -b feature/branch`);
+3. Make your changes and commit them (`git commit -m 'feat: add new feature'`);
+4. Push to the branch (`git push origin feature/branch`);
+5. Open a Pull Request.
 
-5. Execute o aplicativo em um emulador ou dispositivo Android conectado.
-
-## Contribuindo 🤝
-Contribuições para este projeto são bem-vindas! Por favor, siga os passos abaixo:
-1. Clone o repositório (`git clone https://github.com/GuilhermeFT/app-minha-nota`);
-2. Crie uma nova branch (`git checkout -b feature/branch`);
-3. Faça suas alterações e as commit (`git commit -m 'feat: add new feature'`);
-4. Envie para a branch (`git push origin feature/branch`);
-5. Abra um Pull Request.
-
-## Licença 📄
-Este projeto é licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
